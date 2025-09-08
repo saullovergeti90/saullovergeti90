@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saullo Vergeti and I'm a Frontend Developer, from Rio Grande do Sul, Brazil.</h2>
+<h2 align="left">Hi 👋! Hey there 👋! I'm Saullo Vergeti, Mechatronics Engineer, Programmer & Game Dev from Brazil 🚀.</h2>
 
 ###
 
@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
 ###
