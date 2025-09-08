@@ -40,7 +40,7 @@
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/bernardogelain/bernardogelain/output/snake.svg" alt="Snake animation" />
 
 
 ###
