@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋! My name is Saullo Vergeti and I'm a Frontend Developer, from Rio Grande do Sul, Brazil.
 
 <!--
 **saullovergeti90/saullovergeti90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
